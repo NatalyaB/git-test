@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "Lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalyaB/git-test.git"
+  },
+  "author": "Natalya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalyaB/git-test/issues"
+  },
+  "homepage": "https://github.com/NatalyaB/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
